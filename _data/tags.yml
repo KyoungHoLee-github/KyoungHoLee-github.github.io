@@ -1,0 +1,12 @@
+jekyll :
+  name: jekyll
+  description: False
+  cover: assets/built/images/background-frontend.jpg
+homework :
+  name: homework
+  description: False
+  cover: False
+practice :
+  name: practice
+  description: False
+  cover: False
