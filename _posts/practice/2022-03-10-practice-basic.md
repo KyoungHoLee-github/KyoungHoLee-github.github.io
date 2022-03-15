@@ -11,4 +11,4 @@ subclass: 'post tag-practice'
 author: KyoungHoLee
 ---
 
-잘 작동하는지  확인하는 테스트 포스트입니다!
+수학수식 표현 방법 : [수학수식 표현](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
